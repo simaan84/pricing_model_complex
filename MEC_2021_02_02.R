@@ -22,7 +22,7 @@ rm(list = ls())
 
 par(mar=rep(3,4))
 
-output.dir <- "/home/simaan/Dropbox/Publications/Working Research Paper/Book Chapter Akhtar/TeX/BC_ML_Int_2021_01_28"
+output.dir <- "BC_ML_Int"
 fig.dir <- paste(output.dir,"/Figures/",sep = "")
 
 
